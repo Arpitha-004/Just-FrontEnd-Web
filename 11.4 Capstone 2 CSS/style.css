@@ -1,0 +1,82 @@
+body{
+    color: #808080;
+    margin: 0;
+    text-align: center;
+    font-family: "Source Serif 4", serif;
+}
+.top-container{
+    background-color:#ffe4e1;
+    position: relative;
+    padding-top: 100px;
+}
+.top-butterfly{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+h1{
+    color: 	#800000;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: "Dancing Script", cursive;
+}
+h2{
+    color: #800000;
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.pro{
+    text-decoration: underline;
+}
+.bottom-butterfly{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+.middle-container{
+    margin: 100px 0;
+}
+p{
+    line-height: 2;
+    color: black;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: repeat(1,1fr);
+    margin: 100px auto 0 auto;
+    width: 50%;
+    text-align: left;
+    row-gap: 2rem;
+}
+h3{
+    color: maroon;
+    font-family: "Cormorant Garamond", serif
+}
+.bottom-container {
+    background-color: #ffe4e1;
+    padding: 50px 0 20px;
+}
+a{
+    color:#3D1300 ;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright {
+    color:#3D1300;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.btn {
+    background: #ffe4e1;
+    background-image: linear-gradient(top bottom,#3D1300, #3D1300);
+    border-radius: 8px;
+    font-family: "Montserrat", sans-serif;
+    color: #3D1300;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
