@@ -1,0 +1,45 @@
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects (main)
+$ mkdir unix_command
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects (main)
+$ cd unix_command/
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ touch text2.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ start text2.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ code text2.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ rm text2.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ touch text.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ touch text1.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ pwd
+/e/web development projects/unix_command
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ rm *
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ touch com.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ code com.txt
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects/unix_command (main)
+$ cd ..
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects (main)
+$ mkdir new_folder/
+
+91911@LAPTOP-V39D4JOJ MINGW64 /e/web development projects (main)
+$ rm -r new_folder/
